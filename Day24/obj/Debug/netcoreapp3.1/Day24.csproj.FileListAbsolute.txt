@@ -1,0 +1,13 @@
+C:\Users\lerich\OneDrive - Microsoft\AdventOfCode\Day24\bin\Debug\netcoreapp3.1\Day24.exe
+C:\Users\lerich\OneDrive - Microsoft\AdventOfCode\Day24\bin\Debug\netcoreapp3.1\Day24.deps.json
+C:\Users\lerich\OneDrive - Microsoft\AdventOfCode\Day24\bin\Debug\netcoreapp3.1\Day24.runtimeconfig.json
+C:\Users\lerich\OneDrive - Microsoft\AdventOfCode\Day24\bin\Debug\netcoreapp3.1\Day24.runtimeconfig.dev.json
+C:\Users\lerich\OneDrive - Microsoft\AdventOfCode\Day24\bin\Debug\netcoreapp3.1\Day24.dll
+C:\Users\lerich\OneDrive - Microsoft\AdventOfCode\Day24\bin\Debug\netcoreapp3.1\Day24.pdb
+C:\Users\lerich\OneDrive - Microsoft\AdventOfCode\Day24\obj\Debug\netcoreapp3.1\Day24.csprojAssemblyReference.cache
+C:\Users\lerich\OneDrive - Microsoft\AdventOfCode\Day24\obj\Debug\netcoreapp3.1\Day24.AssemblyInfoInputs.cache
+C:\Users\lerich\OneDrive - Microsoft\AdventOfCode\Day24\obj\Debug\netcoreapp3.1\Day24.AssemblyInfo.cs
+C:\Users\lerich\OneDrive - Microsoft\AdventOfCode\Day24\obj\Debug\netcoreapp3.1\Day24.csproj.CoreCompileInputs.cache
+C:\Users\lerich\OneDrive - Microsoft\AdventOfCode\Day24\obj\Debug\netcoreapp3.1\Day24.dll
+C:\Users\lerich\OneDrive - Microsoft\AdventOfCode\Day24\obj\Debug\netcoreapp3.1\Day24.pdb
+C:\Users\lerich\OneDrive - Microsoft\AdventOfCode\Day24\obj\Debug\netcoreapp3.1\Day24.genruntimeconfig.cache
