@@ -1,0 +1,16 @@
+C:\Users\lerich\OneDrive - Microsoft\AdventOfCode\Day20\bin\Debug\net5.0\Day20.exe
+C:\Users\lerich\OneDrive - Microsoft\AdventOfCode\Day20\bin\Debug\net5.0\Day20.deps.json
+C:\Users\lerich\OneDrive - Microsoft\AdventOfCode\Day20\bin\Debug\net5.0\Day20.runtimeconfig.json
+C:\Users\lerich\OneDrive - Microsoft\AdventOfCode\Day20\bin\Debug\net5.0\Day20.runtimeconfig.dev.json
+C:\Users\lerich\OneDrive - Microsoft\AdventOfCode\Day20\bin\Debug\net5.0\Day20.dll
+C:\Users\lerich\OneDrive - Microsoft\AdventOfCode\Day20\bin\Debug\net5.0\ref\Day20.dll
+C:\Users\lerich\OneDrive - Microsoft\AdventOfCode\Day20\bin\Debug\net5.0\Day20.pdb
+C:\Users\lerich\OneDrive - Microsoft\AdventOfCode\Day20\obj\Debug\net5.0\Day20.csprojAssemblyReference.cache
+C:\Users\lerich\OneDrive - Microsoft\AdventOfCode\Day20\obj\Debug\net5.0\Day20.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lerich\OneDrive - Microsoft\AdventOfCode\Day20\obj\Debug\net5.0\Day20.AssemblyInfoInputs.cache
+C:\Users\lerich\OneDrive - Microsoft\AdventOfCode\Day20\obj\Debug\net5.0\Day20.AssemblyInfo.cs
+C:\Users\lerich\OneDrive - Microsoft\AdventOfCode\Day20\obj\Debug\net5.0\Day20.csproj.CoreCompileInputs.cache
+C:\Users\lerich\OneDrive - Microsoft\AdventOfCode\Day20\obj\Debug\net5.0\Day20.dll
+C:\Users\lerich\OneDrive - Microsoft\AdventOfCode\Day20\obj\Debug\net5.0\ref\Day20.dll
+C:\Users\lerich\OneDrive - Microsoft\AdventOfCode\Day20\obj\Debug\net5.0\Day20.pdb
+C:\Users\lerich\OneDrive - Microsoft\AdventOfCode\Day20\obj\Debug\net5.0\Day20.genruntimeconfig.cache

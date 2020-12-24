@@ -1,0 +1,13 @@
+C:\Users\lerich\OneDrive - Microsoft\AdventOfCode\Day21\bin\Debug\netcoreapp3.1\Day21.exe
+C:\Users\lerich\OneDrive - Microsoft\AdventOfCode\Day21\bin\Debug\netcoreapp3.1\Day21.deps.json
+C:\Users\lerich\OneDrive - Microsoft\AdventOfCode\Day21\bin\Debug\netcoreapp3.1\Day21.runtimeconfig.json
+C:\Users\lerich\OneDrive - Microsoft\AdventOfCode\Day21\bin\Debug\netcoreapp3.1\Day21.runtimeconfig.dev.json
+C:\Users\lerich\OneDrive - Microsoft\AdventOfCode\Day21\bin\Debug\netcoreapp3.1\Day21.dll
+C:\Users\lerich\OneDrive - Microsoft\AdventOfCode\Day21\bin\Debug\netcoreapp3.1\Day21.pdb
+C:\Users\lerich\OneDrive - Microsoft\AdventOfCode\Day21\obj\Debug\netcoreapp3.1\Day21.csprojAssemblyReference.cache
+C:\Users\lerich\OneDrive - Microsoft\AdventOfCode\Day21\obj\Debug\netcoreapp3.1\Day21.AssemblyInfoInputs.cache
+C:\Users\lerich\OneDrive - Microsoft\AdventOfCode\Day21\obj\Debug\netcoreapp3.1\Day21.AssemblyInfo.cs
+C:\Users\lerich\OneDrive - Microsoft\AdventOfCode\Day21\obj\Debug\netcoreapp3.1\Day21.csproj.CoreCompileInputs.cache
+C:\Users\lerich\OneDrive - Microsoft\AdventOfCode\Day21\obj\Debug\netcoreapp3.1\Day21.dll
+C:\Users\lerich\OneDrive - Microsoft\AdventOfCode\Day21\obj\Debug\netcoreapp3.1\Day21.pdb
+C:\Users\lerich\OneDrive - Microsoft\AdventOfCode\Day21\obj\Debug\netcoreapp3.1\Day21.genruntimeconfig.cache
