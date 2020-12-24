@@ -1,0 +1,13 @@
+C:\Users\lerich\OneDrive - Microsoft\AdventOfCode\Day6\obj\Debug\netcoreapp3.1\Day6.csprojAssemblyReference.cache
+C:\Users\lerich\OneDrive - Microsoft\AdventOfCode\Day6\obj\Debug\netcoreapp3.1\Day6.AssemblyInfoInputs.cache
+C:\Users\lerich\OneDrive - Microsoft\AdventOfCode\Day6\obj\Debug\netcoreapp3.1\Day6.AssemblyInfo.cs
+C:\Users\lerich\OneDrive - Microsoft\AdventOfCode\Day6\obj\Debug\netcoreapp3.1\Day6.csproj.CoreCompileInputs.cache
+C:\Users\lerich\OneDrive - Microsoft\AdventOfCode\Day6\bin\Debug\netcoreapp3.1\Day6.exe
+C:\Users\lerich\OneDrive - Microsoft\AdventOfCode\Day6\bin\Debug\netcoreapp3.1\Day6.deps.json
+C:\Users\lerich\OneDrive - Microsoft\AdventOfCode\Day6\bin\Debug\netcoreapp3.1\Day6.runtimeconfig.json
+C:\Users\lerich\OneDrive - Microsoft\AdventOfCode\Day6\bin\Debug\netcoreapp3.1\Day6.runtimeconfig.dev.json
+C:\Users\lerich\OneDrive - Microsoft\AdventOfCode\Day6\bin\Debug\netcoreapp3.1\Day6.dll
+C:\Users\lerich\OneDrive - Microsoft\AdventOfCode\Day6\bin\Debug\netcoreapp3.1\Day6.pdb
+C:\Users\lerich\OneDrive - Microsoft\AdventOfCode\Day6\obj\Debug\netcoreapp3.1\Day6.dll
+C:\Users\lerich\OneDrive - Microsoft\AdventOfCode\Day6\obj\Debug\netcoreapp3.1\Day6.pdb
+C:\Users\lerich\OneDrive - Microsoft\AdventOfCode\Day6\obj\Debug\netcoreapp3.1\Day6.genruntimeconfig.cache
